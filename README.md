@@ -16,4 +16,4 @@ A simple ToDo app built with Flutter that utilizes Hive for local storage and Ge
 - Open the app and start managing your tasks.
 - Add a new task by tapping the "+" button.
 - Mark tasks as complete or incomplete by tapping on them.
-- Delete tasks by long-pressing on them.
+- Delete tasks by swiping them away.
