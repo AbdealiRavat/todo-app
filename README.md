@@ -1,7 +1,8 @@
 # To-Do App
 
 A simple ToDo app built with Flutter that utilizes Hive for local storage and GetX for efficient state management. The app allows users to add new tasks, mark tasks as complete or incomplete, and delete tasks.
-![2](https://github.com/AbdealiRavat/todo-app/assets/71277590/e7a15b3a-4aa8-4dd9-a68d-ab30d760c762)
+
+![2](https://github.com/AbdealiRavat/todo-app/assets/71277590/acf9c61f-ec68-429c-835d-b1258a028234)
 
 
 
